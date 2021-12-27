@@ -17,6 +17,6 @@ def buduj_zdanie(info):
     a = info + " Jest zaletą funkcji"
     return (a)
 
-info = "ght"
+info = "ght";
 i = buduj_zdanie(info);
 print(i);
